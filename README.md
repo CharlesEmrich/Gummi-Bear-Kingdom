@@ -5,7 +5,7 @@
 #### CharlesEmrich @ gitHub for any questions.
 
 ## Description
-An app to manage, edit, create, and delete the inventory of a theoretical candy store.
+An app to manage, edit, create, and delete the inventory of a theoretical candy store. Styling modeled on (http://www.the-outpost.com/).
 
 ## Installation
 
